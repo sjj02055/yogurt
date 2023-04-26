@@ -77,8 +77,29 @@
 
 ---
 
+
+
 ![Mask group.png](https://drive.google.com/uc?export=view&id=1w3LBLmOWxpX-uv9vILwE8GO1wE9I4zO_)
 
+<br>
+<br>
+
+## 배운 점
+
+---
+- Spring Security를 통해 인증/인가 처리를 경험해 볼 수 있었습니다.
+- JPA를 사용해보았고 연관 관계를 설정해 볼 수 있었습니다.
+- gitlab의 MR을 관리하며 860개의 commit을 다뤘고 이를 통해 형상관리에 대해 이해할 수 있었습니다.
+- Rest API 구현 방법을 학습할 수 있었습니다.
+<br>
+<br>
+## 부족한 점
+---
+- JPA의 문제점인 N+1에 대한 학습이 부족했습니다.
+- 단위 테스트를 진행하지 못해 기능 오류가 종종 일어났습니다.
+
+<br>
+<br>
 
 ## 프로젝트 산출물
 
