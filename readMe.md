@@ -1,14 +1,12 @@
 # Yogurt
 
----
 
-![Untitled](https://drive.google.com/uc?export=view&id=10NnYSznPhdb2o-w65mAXMRsZQt-2mZFT)
+<p align="center"><img src="https://drive.google.com/uc?export=view&id=10NnYSznPhdb2o-w65mAXMRsZQt-2mZFT"></p>
+
 
 ### 요거트
-
-                                            삼성 청년 SW 아카데미 공통 프로젝트
-
-                                                   2022.01.02 ~ 2022.02.17             
+<center>삼성 청년 SW 아카데미 공통 프로젝트</center>
+<center>2022.01.02 ~ 2022.02.17</center>
                                                 
 
 ## 서비스 배경
