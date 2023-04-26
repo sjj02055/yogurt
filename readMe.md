@@ -85,10 +85,12 @@
 ---
 
 - UCC
-[![UCC](https://img.youtube.com/vi/8l9KzG_cTjI/0.jpg)](https://youtu.be/8l9KzG_cTjI)
+
+https://youtu.be/8l9KzG_cTjI
 
 - 시연영상
-[![시연영상](https://img.youtube.com/vi/JyJoy9jd6KE/0.jpg)](https://youtu.be/JyJoy9jd6KE)  
+
+https://youtu.be/JyJoy9jd6KE
 
 - Figma
     
